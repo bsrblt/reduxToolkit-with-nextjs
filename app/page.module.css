@@ -1,0 +1,14 @@
+.center {
+  text-align: center;
+  color: white;
+}
+
+h2.center {
+  font-size: 2.4rem;
+}
+p.center {
+  font-size: 1.4rem;
+}
+p.center a {
+  color: white;
+}
